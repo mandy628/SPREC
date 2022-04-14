@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登录</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fca0062-df3c-446f-9a41-607bd725f106</testCaseGuid>
+</TestCaseEntity>

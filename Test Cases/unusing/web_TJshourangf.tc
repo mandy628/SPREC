@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>官网查询项目</description>
+   <name>web_TJshourangf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0e28d22-1561-4df7-ac96-f11612a1c7c5</testCaseGuid>
+</TestCaseEntity>

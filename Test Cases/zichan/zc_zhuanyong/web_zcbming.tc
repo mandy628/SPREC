@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>官网查询项目</description>
+   <name>web_zcbming</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f16beff1-bcbc-479c-babd-807c2be86393</testCaseGuid>
+</TestCaseEntity>

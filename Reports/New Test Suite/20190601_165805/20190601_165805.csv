@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,2019-06-01 16:58:09,2019-06-01 16:58:16,6.558s,FAILED
+,,,,,,,
+Test Cases/xinwenzhongxin,,,,2019-06-01 16:58:10,2019-06-01 16:58:16,6.065s,FAILED
+"openBrowser("""")",,,,2019-06-01 16:58:11,2019-06-01 16:58:16,5.330s,FAILED

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 73.0.3683.86,,,2019-05-17 17:23:22,2019-05-17 17:23:46,23.972s,PASSED
+,,,,,,,
+Test Cases/xinwenzhongxin,Chrome 73.0.3683.86,,,2019-05-17 17:23:23,2019-05-17 17:23:46,23.151s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,,2019-05-17 17:23:24,2019-05-17 17:23:30,6.240s,PASSED
+"navigateToUrl(""http://192.168.9.21/xwzx"")",Chrome 73.0.3683.86,,,2019-05-17 17:23:30,2019-05-17 17:23:33,3.490s,PASSED
+"click(findTestObject(""Page_SPREC-- -/Page_SPREC-- - (1)/xinwenfangyingtinggengduo""))",Chrome 73.0.3683.86,,,2019-05-17 17:23:33,2019-05-17 17:23:34,0.301s,PASSED
+delay(5),Chrome 73.0.3683.86,,,2019-05-17 17:23:34,2019-05-17 17:23:39,5.088s,PASSED
+"navigateToUrl(""http://192.168.9.21/articlelist/xwzx/xwfyt"")",Chrome 73.0.3683.86,,,2019-05-17 17:23:39,2019-05-17 17:23:39,0.343s,PASSED
+"click(findTestObject(""Page_SPREC-- -/Page_SPREC-- - (1)/s6""))",Chrome 73.0.3683.86,,,2019-05-17 17:23:39,2019-05-17 17:23:39,0.110s,PASSED
+"navigateToUrl(""http://192.168.9.21/xwzx"")",Chrome 73.0.3683.86,,,2019-05-17 17:23:39,2019-05-17 17:23:40,0.571s,PASSED
+"navigateToUrl(""http://192.168.9.21/articlelist/xwzx/zxdt"")",Chrome 73.0.3683.86,,,2019-05-17 17:23:40,2019-05-17 17:23:40,0.284s,PASSED
+"click(findTestObject(""Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/Page_/zxdt-p_2018--""))",Chrome 73.0.3683.86,,,2019-05-17 17:23:40,2019-05-17 17:23:40,0.120s,PASSED
+delay(5),Chrome 73.0.3683.86,,,2019-05-17 17:23:40,2019-05-17 17:23:45,5.005s,PASSED
+closeBrowser(),Chrome 73.0.3683.86,,,2019-05-17 17:23:45,2019-05-17 17:23:46,0.882s,PASSED

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="23" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="23" timestamp="2019-05-17 17:23:22" hostname="lenovo-1811 - DESKTOP-JQ28KGK" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\lenovo-1811\\Katalon Studio\\SPREC\\Reports\\New Test Suite\\20190517_172318"/>
+         <property name="logFiles" value="C:\\Users\\lenovo-1811\\Katalon Studio\\SPREC\\Reports\\New Test Suite\\20190517_172318\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lenovo-1811 - DESKTOP-JQ28KGK"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+         <property name="browser" value="Chrome 73.0.3683.86"/>
+         <property name="hostAddress" value="192.168.230.190"/>
+         <property name="sessionId" value="279224bcf262ca0779b6020e187461a7"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/xinwenzhongxin" classname="Test Cases/xinwenzhongxin" status="PASSED">
+         <system-out><![CDATA[2019-05-17 17:23:23 - [TEST_CASE][PASSED] - Test Cases/xinwenzhongxin: Test Cases/xinwenzhongxin
+
+2019-05-17 17:23:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-17 17:23:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-05-17 17:23:24 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-17 17:23:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-17 17:23:30 - [TEST_STEP][PASSED] - navigateToUrl("http://192.168.9.21/xwzx"): Navigate to 'http://192.168.9.21/xwzx' successfully
+
+2019-05-17 17:23:33 - [MESSAGE][PASSED] - Navigate to 'http://192.168.9.21/xwzx' successfully
+
+2019-05-17 17:23:33 - [TEST_STEP][PASSED] - click(findTestObject("Page_SPREC-- -/Page_SPREC-- - (1)/xinwenfangyingtinggengduo")): Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/xinwenfangyingtinggengduo' is clicked on
+
+2019-05-17 17:23:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/xinwenfangyingtinggengduo' is clicked on
+
+2019-05-17 17:23:34 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2019-05-17 17:23:39 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2019-05-17 17:23:39 - [TEST_STEP][PASSED] - navigateToUrl("http://192.168.9.21/articlelist/xwzx/xwfyt"): Navigate to 'http://192.168.9.21/articlelist/xwzx/xwfyt' successfully
+
+2019-05-17 17:23:39 - [MESSAGE][PASSED] - Navigate to 'http://192.168.9.21/articlelist/xwzx/xwfyt' successfully
+
+2019-05-17 17:23:39 - [TEST_STEP][PASSED] - click(findTestObject("Page_SPREC-- -/Page_SPREC-- - (1)/s6")): Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/s6' is clicked on
+
+2019-05-17 17:23:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/s6' is clicked on
+
+2019-05-17 17:23:39 - [TEST_STEP][PASSED] - navigateToUrl("http://192.168.9.21/xwzx"): Navigate to 'http://192.168.9.21/xwzx' successfully
+
+2019-05-17 17:23:40 - [MESSAGE][PASSED] - Navigate to 'http://192.168.9.21/xwzx' successfully
+
+2019-05-17 17:23:40 - [TEST_STEP][PASSED] - navigateToUrl("http://192.168.9.21/articlelist/xwzx/zxdt"): Navigate to 'http://192.168.9.21/articlelist/xwzx/zxdt' successfully
+
+2019-05-17 17:23:40 - [MESSAGE][PASSED] - Navigate to 'http://192.168.9.21/articlelist/xwzx/zxdt' successfully
+
+2019-05-17 17:23:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/Page_/zxdt-p_2018--")): Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/Page_/zxdt-p_2018--' is clicked on
+
+2019-05-17 17:23:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SPREC-- -/Page_SPREC-- - (1)/Page_/zxdt-p_2018--' is clicked on
+
+2019-05-17 17:23:40 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2019-05-17 17:23:45 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2019-05-17 17:23:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-17 17:23:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-17 17:23:22 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/xinwenzhongxin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

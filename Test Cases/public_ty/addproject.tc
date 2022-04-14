@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>提交项目</description>
+   <name>addproject</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7e9ec90-e2f1-4f6a-a83e-6b4a104ad870</testCaseGuid>
+</TestCaseEntity>

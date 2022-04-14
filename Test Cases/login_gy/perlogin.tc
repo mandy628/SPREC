@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>客户登录</description>
+   <name>perlogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9adc93e2-4567-4fb3-910e-60d688b08988</testCaseGuid>
+</TestCaseEntity>

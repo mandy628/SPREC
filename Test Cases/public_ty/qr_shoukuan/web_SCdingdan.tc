@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>官网查询项目</description>
+   <name>web_SCdingdan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fcc05d0-fcba-45b8-9e10-3fe4171f0187</testCaseGuid>
+</TestCaseEntity>

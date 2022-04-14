@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>保证金</description>
+   <name>cptongzhishu_senhe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f063aa9c-e929-420f-b0c5-604f757573c7</testCaseGuid>
+</TestCaseEntity>
