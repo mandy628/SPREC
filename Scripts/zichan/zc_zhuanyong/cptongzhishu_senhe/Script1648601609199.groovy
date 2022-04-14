@@ -56,7 +56,7 @@ WebUI.delay(5)
 WebUI.click(findTestObject('gongyong/chaxun/span__1'))
 WebUI.delay(5)
 //盖章
-WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//*[@id="pane-projTrialTemp"]/div/div[1]/div[2]/button/span'))
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//*[@id="pane-projTrialTemp"]/div/div[1]/div[3]/button/span'))
 
 WebUI.delay(3)
 WebUI.click(findTestObject('gongyong/tongguo/button__2'))
