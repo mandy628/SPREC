@@ -39,3 +39,5 @@ WebUI.callTestCase(findTestCase('zichan/zc_zhuanyong/zzjiaoyi'), [:], FailureHan
 
 WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
 
+
+

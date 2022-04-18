@@ -36,9 +36,9 @@ WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_
 WebUI.callTestCase(findTestCase('public_ty/queren_shourf'), [:], FailureHandling.STOP_ON_FAILURE)
 
 '挂牌通知书三级审核'
-//WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
 
 '组织线下交易'
 
-//WebUI.callTestCase(findTestCase('zichan/zc_zhuanyong/zzjiaoyi'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('zichan/zc_zhuanyong/zzjiaoyi'), [:], FailureHandling.STOP_ON_FAILURE)
 

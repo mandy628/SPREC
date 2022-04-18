@@ -19,7 +19,7 @@ WebUI.callTestCase(findTestCase('public_ty/xmshenh'), [:], FailureHandling.STOP_
 
 WebUI.delay(60)
 
-WebUI.callTestCase(findTestCase('zengzi/zzi_bming'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('zengzi/zz_zhuanyong/zzi_bming'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(30)
 
@@ -31,9 +31,9 @@ WebUI.callTestCase(findTestCase('public_ty/qr_shoukuan/jiesuan'), [:], FailureHa
 
 WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('zengzi/queren_rongzf'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('zengzi/zz_zhuanyong/queren_rongzf'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('zengzi/linx_touzf'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('zengzi/zz_zhuanyong/linx_touzf'), [:], FailureHandling.STOP_ON_FAILURE)
 
