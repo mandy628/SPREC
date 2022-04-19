@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>保证金</description>
+   <name>tongzhisu_zhizhi_zc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8d58b1b-2632-4f00-af9c-a02cb8f9b24a</testCaseGuid>
+</TestCaseEntity>
