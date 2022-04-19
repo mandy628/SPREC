@@ -46,12 +46,8 @@ WebUI.delay(3)
 '纸质版上传'
 WebUI.click(new TestObject().addProperty('text', ConditionType.EQUALS, '纸质扫描件'))
 
-//*[@id="pane-listed"]/div/div/div[1]/div/div/div/div[2]
-
 CustomKeywords.'upfile.pickFile'(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//*[@id="pane-listed"]/div/div/div/div/div/div/div[2]'), 'D:\\测试数据\\挂牌结果通知书-转让方-SWZC22019202.pdf')
 WebUI.delay(5)
-//CustomKeywords.'upfile.pickFile'(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//*[@id="pane-listed"]/div/div/div[2]/div/div/div/div[2]'), 'D:\\测试数据\\挂牌结果通知书-受让方-SWZC22019202.pdf')
-
 '意向资格确认'
 WebUI.click(new TestObject().addProperty('id', ConditionType.EQUALS, 'tab-intention'))
 WebUI.delay(5)
