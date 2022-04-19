@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>保证金</description>
-   <name>zztongzhishu_guapai</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>a3d49232-f06d-4123-af34-0fe076795638</testCaseGuid>
-</TestCaseEntity>

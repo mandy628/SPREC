@@ -22,5 +22,5 @@ WebUI.delay(30)
 WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_ON_FAILURE)
 
 '挂牌通知书三级审核'
-WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('public_ty/tongzhishu/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
 

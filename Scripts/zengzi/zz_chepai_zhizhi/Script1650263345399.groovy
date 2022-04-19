@@ -23,5 +23,5 @@ WebUI.delay(30)
 
 WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('public_ty/tongzhishu/chepai_tzs_zhizhi'), [:], FailureHandling.STOP_ON_FAILURE)
 

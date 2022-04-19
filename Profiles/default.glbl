@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>项目名称</description>
-      <initValue>'APP-测试资产罚没资产0415'</initValue>
+      <initValue>'测试资产项目0418'</initValue>
       <name>proname</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

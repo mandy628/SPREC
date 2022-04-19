@@ -33,7 +33,7 @@ WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_
 
 WebUI.callTestCase(findTestCase('zengzi/zz_zhuanyong/queren_rongzf'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('public_ty/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('public_ty/tongzhishu/zztongzhishu_guapai'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('zengzi/zz_zhuanyong/linx_touzf'), [:], FailureHandling.STOP_ON_FAILURE)
 
