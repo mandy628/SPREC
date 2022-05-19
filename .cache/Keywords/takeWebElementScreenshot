@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "92834554D6D7DF93A1DF56A9256B251A",
+  "keywordClasses": [
+    {
+      "name": "ScreenShotElement",
+      "keywordMethods": [
+        {
+          "name": "captureImage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

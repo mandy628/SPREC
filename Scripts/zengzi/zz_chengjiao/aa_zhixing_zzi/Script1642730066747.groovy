@@ -13,7 +13,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('public_ty/addproject'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('public_ty/addproject'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('public_ty/xmshenh'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -25,7 +25,7 @@ WebUI.delay(30)
 
 WebUI.callTestCase(findTestCase('public_ty/shourf_shenh'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('public_ty/qr_shoukuan/web_SCdingdan'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('public_ty/qr_shoukuan/web_SCdingdan'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('public_ty/qr_shoukuan/jiesuan'), [:], FailureHandling.STOP_ON_FAILURE)
 

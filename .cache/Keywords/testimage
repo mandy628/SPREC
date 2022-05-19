@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "EFE7E55BE56790BF4798F98B34DAA439",
+  "keywordClasses": [
+    {
+      "name": "testimage",
+      "keywordMethods": [
+        {
+          "name": "sbimage",
+          "parameters": [
+            {
+              "name": "path",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>项目名称</description>
-      <initValue>'股权项目挂牌通知书到期撤牌0412-02'</initValue>
+      <initValue>'增资金额只输入最低值'</initValue>
       <name>proname</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,5 +63,15 @@
       <description>firefox 配置文件</description>
       <initValue>'C:\\Users\\lenovo-1811\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\guanyuxia'</initValue>
       <name>G_FFProfile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>机构注册用户名</description>
+      <initValue>'jgou'</initValue>
+      <name>jigou_yhm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>机构注册手机号</description>
+      <initValue>'17615876791'</initValue>
+      <name>jigou_phone</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

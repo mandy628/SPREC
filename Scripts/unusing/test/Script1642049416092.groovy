@@ -18,7 +18,7 @@ FirefoxProfile FF = profile.getProfile("for_katalon");
 
 FirefoxOptions optionsFF = new FirefoxOptions().setProfile(FF);
 optionsFF.setBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe");
-System.setProperty("webdriver.gecko.driver", "D:\\Katalon_Studio_Windows_64-6.1.2\\configuration\\resources\\drivers\\firefox_win64\\geckodriver.exe")
+//System.setProperty("webdriver.gecko.driver", "D:\\Katalon_Studio_Windows_64-6.1.2\\configuration\\resources\\drivers\\firefox_win64\\geckodriver.exe")
 WebDriver driverFF = new FirefoxDriver(optionsFF);
 
 DriverFactory.changeWebDriver(driverFF)

@@ -13,7 +13,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('public_ty/addproject'), [:], FailureHandling.STOP_ON_FAILURE)
+/*WebUI.callTestCase(findTestCase('public_ty/addproject'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.callTestCase(findTestCase('public_ty/xmshenh'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.delay(60)
 WebUI.callTestCase(findTestCase('guquan/gquan_bming'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -30,7 +30,7 @@ WebUI.callTestCase(findTestCase('public_ty/qr_shoukuan/jiesuan'), [:], FailureHa
 WebUI.callTestCase(findTestCase('public_ty/zhaipai'), [:], FailureHandling.STOP_ON_FAILURE)
 
 '确认交易方式协议'
-WebUI.callTestCase(findTestCase('public_ty/queren_shourf'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('public_ty/queren_shourf'), [:], FailureHandling.STOP_ON_FAILURE)*/
 
 '纸质挂牌通知书二级审核'
 WebUI.callTestCase(findTestCase('public_ty/tongzhishu/tongzhisu_zhizhi'), [:], FailureHandling.STOP_ON_FAILURE)

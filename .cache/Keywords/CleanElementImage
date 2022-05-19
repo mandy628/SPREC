@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "F84CD642D4A2547AD94A4A3DB5BD2348",
+  "keywordClasses": [
+    {
+      "name": "CleanElementImage",
+      "keywordMethods": [
+        {
+          "name": "handlImage",
+          "parameters": [
+            {
+              "name": "sfile",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.io.File",
+                "unresolvedClassName": "File",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "destDir",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t *\n\t * @param sfile\n\t *            需要去噪的图像\n\t * @param destDir\n\t *            去噪后的图像保存地址\n\t * @throws IOException\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

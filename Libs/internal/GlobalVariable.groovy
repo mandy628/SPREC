@@ -69,6 +69,16 @@ public class GlobalVariable {
      */
     public static Object G_FFProfile
      
+    /**
+     * <p>Profile default : &#26426;&#26500;&#27880;&#20876;&#29992;&#25143;&#21517;</p>
+     */
+    public static Object jigou_yhm
+     
+    /**
+     * <p>Profile default : &#26426;&#26500;&#27880;&#20876;&#25163;&#26426;&#21495;</p>
+     */
+    public static Object jigou_phone
+     
 
     static {
         try {
@@ -88,6 +98,8 @@ public class GlobalVariable {
             loginname_jyy = selectedVariables['loginname_jyy']
             loginpwd_jyy = selectedVariables['loginpwd_jyy']
             G_FFProfile = selectedVariables['G_FFProfile']
+            jigou_yhm = selectedVariables['jigou_yhm']
+            jigou_phone = selectedVariables['jigou_phone']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

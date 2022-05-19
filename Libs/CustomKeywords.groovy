@@ -3,9 +3,11 @@
  * This class is generated automatically by Katalon Studio and should not be modified or deleted.
  */
 
-import com.kms.katalon.core.testobject.TestObject
+import java.io.File
 
 import java.lang.String
+
+import com.kms.katalon.core.testobject.TestObject
 
 import com.applitools.eyes.selenium.Eyes
 
@@ -13,6 +15,34 @@ import org.openqa.selenium.WebElement
 
 import com.applitools.eyes.RectangleSize
 
+
+ /**
+	 *
+	 * @param sfile
+	 *            需要去噪的图像
+	 * @param destDir
+	 *            去噪后的图像保存地址
+	 * @throws IOException
+	 */ 
+def static "CleanElementImage.handlImage"(
+    	File sfile	
+     , 	String destDir	) {
+    (new CleanElementImage()).handlImage(
+        	sfile
+         , 	destDir)
+}
+
+
+def static "testimage.sbimage"(
+    	String path	) {
+    (new testimage()).sbimage(
+        	path)
+}
+
+
+def static "ScreenShotElement.captureImage"() {
+    (new ScreenShotElement()).captureImage()
+}
 
  /**
 	 * Refresh browser
@@ -118,19 +148,19 @@ def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkElement"(
 }
 
 
+def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow"(
+    	String testName	) {
+    (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkWindow(
+        	testName)
+}
+
+
 def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkTestObject"(
     	TestObject testObject	
      , 	String testName	) {
     (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkTestObject(
         	testObject
          , 	testName)
-}
-
-
-def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow"(
-    	String testName	) {
-    (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkWindow(
-        	testName)
 }
 
 
@@ -154,13 +184,13 @@ def static "com.kms.katalon.keyword.applitools.EyesKeywords.eyesOpen"(
 }
 
 
-def static "com.kms.katalon.keyword.applitools.EyesKeywords.eyesInit"() {
-    (new com.kms.katalon.keyword.applitools.EyesKeywords()).eyesInit()
-}
-
-
 def static "com.kms.katalon.keyword.applitools.EyesKeywords.eyesClose"(
     	Eyes eyes	) {
     (new com.kms.katalon.keyword.applitools.EyesKeywords()).eyesClose(
         	eyes)
+}
+
+
+def static "com.kms.katalon.keyword.applitools.EyesKeywords.eyesInit"() {
+    (new com.kms.katalon.keyword.applitools.EyesKeywords()).eyesInit()
 }

@@ -153,6 +153,29 @@
 			<attribute name="javadoc_location" value="file:/D:/Katalon_Studio_Windows_64-8.3.0/configuration/resources/apidocs/com.kms.katalon.core.testng/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo-1811/Katalon Studio/SPREC/Drivers/xmlgraphics-commons-1.5.jar"/>
 	<classpathentry kind="lib" path="D:/Katalon_Studio_Windows_64-8.3.0/configuration/org.eclipse.osgi/26/0/.cp/resources/applitools/katalon-studio-applitools-plugin.jar"/>
 	<classpathentry kind="lib" path="D:/Katalon_Studio_Windows_64-8.3.0/configuration/org.eclipse.osgi/26/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
